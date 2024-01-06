@@ -25,11 +25,11 @@
 
 Wannabe some type of developer someday. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> 
 
-- :telescope: Tying out as much programming languages as possible in the eraly years.
+- :telescope: Tying out as much programming languages as possible in the early years.
 
 - :seedling: Always trying to improve my programming and logical problem solving skills.
 
-- :zap: Aside from programming, I enjoy messing with SBCs (Raspberry Pi, PineA64, Aurduio, etc.).
+- :zap: Aside from programming, I enjoy messing with SBCs (Raspberry Pi, PineA64, Arduino, etc.).
 
 - :iphone: You can find me on [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/VB2007_res)
   - :email: Or you can drop a message on: [![Gmail Badge](https://img.shields.io/badge/-vagvolgyi.balazs.vb@gmail.com-orange?style=flat&logo=Gmail&logoColor=white)](mailto:vagvolgyi.balazs.vb@gmail.com)
