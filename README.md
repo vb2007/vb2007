@@ -6,6 +6,9 @@
     <a href="https://www.reddit.com/u/VB2007_">
       <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
+    <a href="https://stackoverflow.com/users/17977546/vb2007">
+      <img src="https://img.shields.io/badge/Stack_Overflow?style=for-the-badge&logo=twitter&logoColor=white" alt="Stack Overflow Badge"/>
+    </a>
     <a href="https://twitter.com/vb2007_">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
