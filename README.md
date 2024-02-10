@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 
-Wannabe some type of developer someday. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> 
+Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> 
 
 - :telescope: Tying out as much programming languages as possible in the early years.
 
