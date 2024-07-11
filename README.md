@@ -35,7 +35,7 @@ Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :zap: Aside from programming, I enjoy messing with SBCs (Raspberry Pi, PineA64, Arduino, etc.).
 
 - :iphone: You can find me on [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/VB2007_res)
-  - :email: Or you can drop a message on: [![Gmail Badge](https://img.shields.io/badge/-vagvolgyi.balazs.vb@gmail.com-orange?style=flat&logo=Gmail&logoColor=white)](mailto:vagvolgyi.balazs.vb@gmail.com)
+  - :email: Or you can drop a message on: [![Gmail Badge](https://img.shields.io/badge/-admin@vb2007.hu-orange?style=flat&logo=Gmail&logoColor=white)](mailto:admin@vb2007.hu)
 
 ---
 
