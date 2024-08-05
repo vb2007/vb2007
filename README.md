@@ -74,9 +74,11 @@ Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :fire: Take a look at my stats :
 <div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vb2007&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vb2007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vb2007&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  ![vb2007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vb2007&show_icons=true&theme=gotham&rank_icon=github)
+  <br>
+  [![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=vb2007&theme=gotham)](https://git.io/streak-stats)
+  
 </div>
