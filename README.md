@@ -41,34 +41,34 @@ Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :book: Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp; <!--That's far from a programming language...-->
+  <a target="_blank" href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/PHP"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Markdown"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp; <!--That's far from a programming language...-->
 </div>
 
 ### :hammer_and_wrench: Frameworks and Tools 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Eclipse" **alt="Eclipse" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian Linux" alt="Debian Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/MySQL"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/MariaDB"><img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/SQLite"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Node.js"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/.NET_Framework"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Selenium_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Nginx"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Microsoft_Azure"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Visual_Studio"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
+  <!-- <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Eclipse" **alt="Eclipse" width="40" height="40"/></a>&nbsp; -->
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Debian"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian Linux" alt="Debian Linux" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Arch_Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Raspberry_Pi"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
