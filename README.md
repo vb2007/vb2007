@@ -39,8 +39,8 @@ Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### :book: Languages:
 <div>
-  <a target="_blank" href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
-  <a target="_blank" href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
@@ -55,8 +55,8 @@ Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <a target="_blank" href="https://en.wikipedia.org/wiki/MySQL"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/MariaDB"><img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/SQLite"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/></a>&nbsp;
-  <a target="_blank" href="https://en.wikipedia.org/wiki/Node.js"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="Node.Js" width="40" height="40"/></a>&nbsp;
-  <a target="_blank" href="https://en.wikipedia.org/wiki/Express.js"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="NodeJS" alt="Express.Js" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Node.js"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.Js" alt="Node.Js" width="40" height="40"/></a>&nbsp;
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Express.js"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.Js" alt="Express.Js" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/.NET_Framework"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/Selenium_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
   <a target="_blank" href="https://en.wikipedia.org/wiki/Nginx"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/></a>&nbsp;
