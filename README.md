@@ -22,8 +22,6 @@
   </div> -->
 </div>
 
----
-
 ### :man_technologist: About Me :
 
 Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> 
