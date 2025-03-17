@@ -23,11 +23,11 @@
 
 Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"/> 
 
-- :telescope: Tying out as much programming languages as possible in the early years.
+- :telescope: Tying out as many programming languages as possible in the early years.
 
 - :seedling: Always trying to improve my programming and logical problem solving skills.
 
-- :zap: Aside from programming, I enjoy messing with SBCs (Raspberry Pi, PineA64, Arduino, etc.).
+- :zap: Aside from programming, I enjoy messing around with SBCs (Raspberry Pi, PineA64, Arduino, etc.).
 
 - :iphone: You can find me on [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/VB2007_res)
   - :email: Or you can drop a message on: [![Gmail Badge](https://img.shields.io/badge/-admin@vb2007.hu-orange?style=flat&logo=Gmail&logoColor=white)](mailto:admin@vb2007.hu)
