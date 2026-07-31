@@ -73,10 +73,10 @@ Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :fire: Take a look at my stats :
 <div align="center">
 
-  [![Top Programming Languages](https://github-stats-extended.vercel.app.app/api/top-langs/?username=vb2007&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  ![vb2007's GitHub Stats](https://github-stats-extended.vercel.app/api?username=vb2007&show_icons=true&theme=gotham&rank_icon=github)
-  <br>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vb2007&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=vb2007&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue-dark)
+  
   [![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=vb2007&theme=gotham)](https://git.io/streak-stats)
+
+  [![Top Programming Languages](https://github-stats-extended.vercel.app/api/top-langs?username=vb2007&layout=compact&langs_count=10&theme=vue-dark)
   
 </div>
