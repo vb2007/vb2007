@@ -73,10 +73,10 @@ Wannabe a good dev. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### :fire: Take a look at my stats :
 <div align="center">
 
-  [![Top Programming Languages](https://github-stats-extended.vercel.app/api/top-langs?username=vb2007&layout=compact&langs_count=10&theme=vue-dark)
+  [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=vb2007&layout=compact&langs_count=10&theme=vue-dark)]
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vb2007&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=vb2007&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue-dark)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vb2007&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue-dark)]
   
-  [![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=vb2007&theme=gotham)](https://git.io/streak-stats)
+  [![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=vb2007&theme=gotham)]
   
 </div>
